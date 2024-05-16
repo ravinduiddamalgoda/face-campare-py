@@ -52,4 +52,4 @@ def compare_faces(image_path1, image_path2):
     print(f"Distance: {distance}")
 
 # Test the function with two images
-compare_faces('image/img.png', 'image/img_1.png')
+compare_faces('image/img.png', 'image/img2.png')
