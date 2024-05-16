@@ -1,9 +1,8 @@
 Flask
 flask-cors
 mtcnn
-tensorflow
+keras-facenet
+scipy
 numpy
 Pillow
 opencv-python
-keras-facenet
-scipy
